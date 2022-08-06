@@ -1,0 +1,26 @@
+body
+{
+    background-image: linear-gradient(to bottom right, #aa0a25, #ff0000, #ff002b, #ff6a00, #ffea00, #00ff55, #009431, #00ffae, #00ffff, #00948f, #0077ff, #0008ff, #004594, #000594, #7300ff, #9000ff, #650094, #7e0094, #fb00ff, #ff0095, #ff0062, #ff004c, #940074, #94004a, #940023, #940016, #000000);
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status {
+    font-size: 18px;
+    color: aquamarine;
+    background-color: darkviolet;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px rgb(111, 0, 255);
+    border-radius: 10px;
+}
+
+h1 {
+    color: crimson;
+    background-color: darkturquoise;
+}
